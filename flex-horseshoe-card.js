@@ -23,7 +23,8 @@ import {
   html,
   css,
   svg
-  } from "https://unpkg.com/lit-element@2.0.1/lit-element.js?module";
+  // } from "https://unpkg.com/lit-element@2.0.1/lit-element.js?module";
+} from "./lit-element/lit-element.js"
 
   console.info(
     `%c   FLEX-HORSESHOE-CARD   \n%c       Version 1.2       `,
